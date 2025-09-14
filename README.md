@@ -24,6 +24,3 @@ Plugin WordPress para criar um formulário que envia mensagens para WhatsApp. In
 ## Observações
 - O plugin abre o link `https://wa.me/<phone>?text=...`. Use o campo Número com o DDI (ex: 5515997064008).
 - reCAPTCHA precisa de chaves válidas para o domínio.
-
-## Deploy no GitHub
-Este pacote já está organizado para subir para o GitHub. Adicione um `.gitignore` e publique.
